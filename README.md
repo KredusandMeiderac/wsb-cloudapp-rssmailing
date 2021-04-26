@@ -1,3 +1,18 @@
+link do strony: https://rssmailcis.azurewebsites.net/
+Save xml tvn24:
+![image](https://user-images.githubusercontent.com/55463732/116046575-80f63100-a673-11eb-9205-4ba8fbf17942.png)
+
+Preview:
+![image](https://user-images.githubusercontent.com/55463732/116046656-94a19780-a673-11eb-8405-b1eaed8e98db.png)
+
+Send:
+![image](https://user-images.githubusercontent.com/55463732/116046698-a08d5980-a673-11eb-95ac-d32eaf4dc314.png)
+
+Email:
+![image](https://user-images.githubusercontent.com/55463732/116046784-b438c000-a673-11eb-86d9-408567d41ba1.png)
+
+
+
 # Feedmail
 
 WebApp wrote in node js and vanilla js for sending rss via email
